@@ -1,17 +1,10 @@
 # divide_ai_front
 
-A new Flutter project.
+Funcionalidades
+Autenticação: Login e cadastro seguros com persistência de token (JWT).
 
-## Getting Started
+Gestão de Grupos: Listagem e criação de grupos de despesas.
 
-This project is a starting point for a Flutter application.
+Estado: Gerenciamento de estado eficiente utilizando o pacote Provider.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API: Integração com backend RESTful para sincronização de dados em tempo real.
